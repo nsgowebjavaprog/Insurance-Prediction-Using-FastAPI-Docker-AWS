@@ -6,7 +6,9 @@ Insurance Prediction Using Python, FastAPI, Docker, AWS, ML Model
 
 ![alt text](image.png)
 
-### 
+### Pipe-Line
+
+![alt text](image-1.png)
 
 ### 
 
